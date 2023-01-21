@@ -1,0 +1,37 @@
+[
+    {
+        "question": "ASCII का Full form?",
+        "option1": "American Standard code for Information interconnection ",
+        "option2": "American Standard code for Information Interchange ",
+        "option3": "American Standard code information intercommunication",
+        "option4": "American Standard Coding for information interconnection"
+    },
+    {
+        "question": "computer की कौन सी विशेषता इसे electronic Calculators से अलग करती है?",
+        "option1": "Accuracy ",
+        "option2": "Versatility",
+        "option3": "Storage",
+        "option4": "Automatic"
+    },
+    {
+        "question": "Linux operating system में read only file की अनुमतियों को किस रूप में represented जाता है?",
+        "option1": "444 ",
+        "option2": "111",
+        "option3": "666",
+        "option4": "222"
+    },
+    {
+        "question": " Ubuntu के संस्थापक है",
+        "option1": "Charls babage",
+        "option2": "Mark zukerbarg ",
+        "option3": "Mark Shuttleworth",
+        "option4": "Sundar pichai"
+    },
+    {
+        "question": "software जिसे freely access और modify किया जा सके, कहलाता है",
+        "option1": "propriety ware",
+        "option2": "Open source software ",
+        "option3": "Utility software ",
+        "option4": "None "
+    }
+]
